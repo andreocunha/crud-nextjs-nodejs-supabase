@@ -3,7 +3,10 @@
 Essa é uma aplicação completa para operações CRUD, que permite o cadastro, autenticação, edição e exclusão de usuários. Ela foi construída com uma stack moderna e poderosa, incluindo Next.js, TypeScript, Tailwind CSS no frontend, e um servidor Node.js com TypeScript no backend. O banco de dados utilizado é o Supabase.
 
 Veja um vídeo da aplicação funcionando:
-![Demo](.github/demo.mov)
+
+https://github.com/andreocunha/crud-nextjs-nodejs-supabase/assets/54721131/6d4d1bed-1db6-4f88-96c2-b9cf21a13e30
+
+
 
 O Link para a aplicação é: **[https://crud-nextjs-nodejs-supabase.vercel.app/](https://crud-nextjs-nodejs-supabase.vercel.app/)**
 
@@ -44,7 +47,8 @@ Acesse o site do [Supabase](https://supabase.io/) e crie uma conta. Após criar 
 2. **Crie um banco de dados no Supabase**
 Para criar o banco de dados veja o vídeo abaixo:
 
-![Criando o banco de dados](.github/create_tables.mov)
+https://github.com/andreocunha/crud-nextjs-nodejs-supabase/assets/54721131/cfa6a99e-3726-46e0-8534-ef4b9e7181a4
+
 
 O SQL usado para criar as tabelas é o seguinte:
 
