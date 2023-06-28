@@ -4,7 +4,9 @@ Essa é uma aplicação completa para operações CRUD, que permite o cadastro, 
 
 Veja um vídeo da aplicação funcionando:
 
-https://github.com/andreocunha/crud-nextjs-nodejs-supabase/assets/54721131/6d4d1bed-1db6-4f88-96c2-b9cf21a13e30
+https://github.com/andreocunha/crud-nextjs-nodejs-supabase/assets/54721131/755eae81-aed0-4e3c-bf87-29911ceebc8c
+
+
 
 
 
@@ -47,7 +49,7 @@ Acesse o site do [Supabase](https://supabase.io/) e crie uma conta. Após criar 
 2. **Crie um banco de dados no Supabase**
 Para criar o banco de dados veja o vídeo abaixo:
 
-https://github.com/andreocunha/crud-nextjs-nodejs-supabase/assets/54721131/cfa6a99e-3726-46e0-8534-ef4b9e7181a4
+https://github.com/andreocunha/crud-nextjs-nodejs-supabase/assets/54721131/d76f64bb-b4cf-441f-b7f7-17f77fb9f01a
 
 
 O SQL usado para criar as tabelas é o seguinte:
